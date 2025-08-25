@@ -47,9 +47,8 @@ All of this is presented using an interactive, visually-rich Power BI dashboard,
 
 /CPI-NIFTY-2025/
 │
-├── data/ # Raw and processed CPI + NIFTY data
-├── visuals/ # Screenshots and exports
-├── dashboard.pbix # Power BI report file
+├── data/ https://github.com/Bishakhakapur/CPI-vs-NIFTY-2025-Analysis-/blob/main/CPI_vs_NIFTY_2025_.xlsx , https://github.com/Bishakhakapur/CPI-vs-NIFTY-2025-Analysis-/blob/main/nifty_cpi_news_with_sentiment.xlsx
+├── dashboard.pbix - https://github.com/Bishakhakapur/CPI-vs-NIFTY-2025-Analysis-/blob/main/CPI%20vs%20NIFTY%202025.pbit
 
 
 ---
@@ -81,6 +80,7 @@ Feel free to fork, improve, or extend this project. Submit a PR or create an iss
 ## 📧 Contact
 
 Created by Bishakha Kapur
+
 📬 Reach out on bishakhakapur7@gmail.com
 
 ---
