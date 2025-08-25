@@ -20,7 +20,7 @@ All of this is presented using an interactive, visually-rich Power BI dashboard,
 
 ## 🖼️ Dashboard Demo
 
-![Demo](./Screenshot%202025-08-24%20070649.png)
+![Demo](https://github.com/Bishakhakapur/CPI-vs-NIFTY-2025-Analysis-/blob/main/Screenshot%202025-08-24%20070649.png)
 
 ---
 
